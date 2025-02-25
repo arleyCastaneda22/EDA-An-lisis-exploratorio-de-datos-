@@ -116,5 +116,5 @@ El dataset utilizado proviene de kaggle (Netflix Movies and TV Shows) en formato
 
 Este análisis ofrece insights clave sobre el contenido disponible en Netflix, ayudando a identificar patrones en producciones, actores, directores y tendencias de consumo.
 
-🛠️ Autor: [Jhon Arley Castañeda Vergara
-💡 Contacto: [www.linkedin.com/in/arley-castañeda-3a981526]
+🛠️ Autor: Jhon Arley Castañeda Vergara
+💡 Contacto: www.linkedin.com/in/arley-castañeda-3a981526
