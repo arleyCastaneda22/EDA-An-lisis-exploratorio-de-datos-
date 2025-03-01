@@ -110,7 +110,7 @@ Power BI
 
 📄 Dataset
 
-El dataset utilizado proviene de kaggle (Netflix Movies and TV Shows) en formato CSV y contiene información sobre títulos, directores, elenco, año de lanzamiento, país, géneros, fecha de adición, duración y clasificación por edad.
+El dataset utilizado proviene de kaggle (Netflix Movies and TV Shows) en formato CSV y contiene información sobre títulos, directores, elenco, año de lanzamiento, país, géneros, fecha de adición y duración.
 
 📖 Conclusiones
 
