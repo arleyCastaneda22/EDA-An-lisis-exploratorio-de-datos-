@@ -106,7 +106,7 @@ Python (Pandas)
 
 Jupyter Notebook 
 
-Power BI / Tableau (Tengo pendiente realizar visualizaciones con Power BI)
+Power BI 
 
 📄 Dataset
 
@@ -114,7 +114,7 @@ El dataset utilizado proviene de kaggle (Netflix Movies and TV Shows) en formato
 
 📖 Conclusiones
 
-Este análisis ofrece insights clave sobre el contenido disponible en Netflix, ayudando a identificar patrones en producciones, actores, directores y tendencias de consumo.
+Este análisis ofrece insights clave sobre el contenido disponible en Netflix, ayudando a identificar patrones en producciones, actores y directores.
 
 🛠️ Autor: Jhon Arley Castañeda Vergara
 💡 Contacto:  www.linkedin.com/in/arley-castañeda-3a981526
